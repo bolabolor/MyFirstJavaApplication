@@ -9,7 +9,7 @@ public class Methoden {
         String name = "Bola";
         System.out.println(laenge(name));
 
-        String someString = "This sentence contains the word Fancy.";
+        String someString = "This sentence contains the word Fancy maybe.";
         System.out.println(enthaelt(someString));
         System.out.println(bothTrue(someString));
 
