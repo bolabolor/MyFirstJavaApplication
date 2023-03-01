@@ -11,3 +11,4 @@ public class Arrays {
         System.out.println(java.util.Arrays.toString(preis));
     }
 }
+// Test
